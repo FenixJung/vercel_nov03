@@ -23,13 +23,13 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Create &rarr;</h2>
+            <h2>Create</h2>
             <p>A file</p>
             <p>A folder</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Read &rarr;</h2>
+            <h2>Read</h2>
             <p>A file</p>
           </a>
 
@@ -37,7 +37,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Update &rarr;</h2>
+            <h2>Update</h2>
             <p>A folder name</p>
             <p>A file name</p>
             <p>The file contents</p>
@@ -49,7 +49,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.card}
           >
-            <h2>Delete &rarr;</h2>
+            <h2>Delete</h2>
             <p>The file</p>
             <p>The folder</p>
           </a>
